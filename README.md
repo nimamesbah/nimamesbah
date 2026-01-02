@@ -1,15 +1,13 @@
-# Nima Mesbah 👋
-
 ## 🥋 Codewars Stats
 
 ![Codewars](https://www.codewars.com/users/nimamesbah/badges/large)
 
 ---
 
-## 👨‍💻 About Me
-- Problem solving & algorithm practice
-- Backend & frontend development
-- Always improving through coding challenges
+## 👨‍💻 who am i
+- addicted to JavaScript with having no life
+- frontend development (yet)
+- Always need challenges and suffers
 
 ---
 
