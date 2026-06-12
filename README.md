@@ -5,9 +5,10 @@
 ---
 
 ## 👨‍💻 who am i
-- addicted to JavaScript with having no life
 - web developer => nextjs / reactjs
-- testing and crawling / automations => playwright 
+- testing and crawling / automations => playwright
+- experience for browser extensions  
+- addicted to JavaScript with having no life
 - Always need challenges and suffers
 
 ---
@@ -15,3 +16,8 @@
 ## 🔗 Profiles
 - **Codewars:** https://www.codewars.com/users/nimamesbah
 - **GitHub:** https://github.com/nimamesbah
+
+---
+
+![my metro](https://my-metro.ir/)
+
