@@ -6,7 +6,8 @@
 
 ## 👨‍💻 who am i
 - addicted to JavaScript with having no life
-- frontend development (yet)
+- web developer => nextjs / reactjs
+- testing and crawling / automations => playwright 
 - Always need challenges and suffers
 
 ---
