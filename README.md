@@ -16,6 +16,8 @@
 ## 🔗 Profiles
 - **Codewars:** https://www.codewars.com/users/nimamesbah
 - **GitHub:** https://github.com/nimamesbah
+- **Telegram:** @nimamesbah
+- **Bale:** @nimamesbah
 
 ---
 
