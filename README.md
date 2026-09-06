@@ -7,6 +7,7 @@
 ## 👨‍💻 who am i
 - web developer => nextjs / reactjs
 - testing and crawling / automations => playwright
+- android and ios developer => react native
 - experience for browser extensions  
 - addicted to JavaScript with having no life
 - Always need challenges and suffers
